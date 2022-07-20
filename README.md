@@ -57,4 +57,8 @@ We use two conventions for naming registers:
 <img width="709" alt="image" src="https://user-images.githubusercontent.com/67783915/180010162-378839d7-c236-4abb-b24d-8d5600b0ad5e.png">
 <img width="707" alt="image" src="https://user-images.githubusercontent.com/67783915/180010298-1db7dc04-1e75-4d7c-bda7-069a27f85b95.png">
 
+# Instruction Machine Code Format
+<img width="708" alt="image" src="https://user-images.githubusercontent.com/67783915/180010883-0c412a43-fe5a-401b-a77a-08e24830f971.png">
+<img width="707" alt="image" src="https://user-images.githubusercontent.com/67783915/180010957-db196366-11b8-4d16-b67e-757128b2f9a0.png">
+
 
