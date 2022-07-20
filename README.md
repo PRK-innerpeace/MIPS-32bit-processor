@@ -53,5 +53,8 @@ We use two conventions for naming registers:
 
 -   It may also be set and overwritten like normal register
 
+# ISA
+<img width="709" alt="image" src="https://user-images.githubusercontent.com/67783915/180010162-378839d7-c236-4abb-b24d-8d5600b0ad5e.png">
+<img width="707" alt="image" src="https://user-images.githubusercontent.com/67783915/180010298-1db7dc04-1e75-4d7c-bda7-069a27f85b95.png">
 
 
